@@ -6,7 +6,7 @@ The code is written in Javascript using NodeJs and using filesystem modules.
 You have to provide the link for your source path and your destination folder. ( They can be same too ) The program works by arranging the files based on the extensions and the time of creation of the file. It sorts different file formats like MP3, MP4, PNG, TXT in Music, Video, Images and documents respectively. A parent folder will be made which holds the year the File was made and further arranges the folder.
 
 Working Video of the Project:
-     < insert link here >
+     https://www.linkedin.com/posts/rishabh-sharma7_we-all-have-messed-up-downloads-folder-and-activity-6678729802184310784-Z81W
 
 This project can be used to arrange folders and files and make documents easily accessible.
 
